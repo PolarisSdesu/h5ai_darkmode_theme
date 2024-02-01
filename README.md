@@ -1,5 +1,8 @@
 # h5ai_darkmode_theme
 
+<img width="1280" alt="image" src="https://github.com/PolarisSdesu/h5ai_darkmode_theme/assets/59138734/1ddead6c-8511-4982-b182-5f08c33f9565">
+
+
 ## h5ai 的深色模式主题。
 
 ### 只需两步即可启用：
